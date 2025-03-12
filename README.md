@@ -4,3 +4,4 @@
 
 - Process 1: "tc1rF7xyMsgHI6pqeBLRrs0T5RqxsPbJwIECPVAntgc"
 - Process 2: "x_6ftP4M9CSjcZeqHXj6BFgbV9aDft8pYPHe_QXAC3E"
+- Token Process (VictorTheOracle ($VTO)): "oDNpyXYBnZnObL5RlyBByszLhpZvBmRW68kDdzQ7X-w"
